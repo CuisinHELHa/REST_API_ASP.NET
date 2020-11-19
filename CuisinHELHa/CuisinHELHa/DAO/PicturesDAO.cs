@@ -16,6 +16,10 @@ namespace CuisinHELHa.DAO
         private static readonly string REQ_QUERY
             = $"SELECT * FROM {TABLE_NAME}";
 
+        private static readonly string REQ_QUERY_BY_RECYPE
+            = $"SELECT * FROM {TABLE_NAME} " +
+              $"WHERE {FIELD_ID_RECIPE} = @{FIELD_ID_RECIPE}";
+        
         private static readonly string REQ_POST
             = $"INSERT INTO {TABLE_NAME} ({FIELD_ID_RECIPE}, {FIELD_PICTURE}) " +
               $"OUTPUT Inserted.{FIELD_ID_PICTURE} " +
@@ -48,6 +52,29 @@ namespace CuisinHELHa.DAO
 
             return pictures;
         }
+        
+        
+        public static List<PicturesDTO> QueryByRecipe(int id)
+        {
+            List<PicturesDTO> pictures = new List<PicturesDTO>();
+            using (SqlConnection connection = DataBase.GetConnection())
+            {
+                connection.Open();
+                SqlCommand command = connection.CreateCommand();
+                command.CommandText = REQ_QUERY_BY_RECYPE;
+
+                command.Parameters.AddWithValue($@"{FIELD_ID_RECIPE}", id);
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    pictures.Add(new PicturesDTO(reader));
+                }
+            }
+
+            return pictures;
+        }   
         
         public static PicturesDTO Post(PicturesDTO pictures)
         {

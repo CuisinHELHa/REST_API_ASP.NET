@@ -1,4 +1,6 @@
-﻿using System.Data.SqlClient;
+﻿using System;
+using System.Data;
+using System.Data.SqlClient;
 
 namespace CuisinHELHa.Models
 {
@@ -10,17 +12,9 @@ namespace CuisinHELHa.Models
                                                             Password=cuisinHELHa3BI; 
                                                             Trusted_Connection=False; 
                                                             MultipleActiveResultSets=true";
-
         public static SqlConnection GetConnection(){
-        
             SqlConnection connection = new SqlConnection(CONNECTION_STRING);
             return connection;
+        }
     }
-        
-        
-        
-        
-    }
-    
-    
 }

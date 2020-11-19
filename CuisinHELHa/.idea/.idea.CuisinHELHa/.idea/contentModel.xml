@@ -26,6 +26,8 @@
         </e>
         <e p="DTO" t="Include">
           <e p="IngredientsDTO.cs" t="Include" />
+          <e p="MailDTO.cs" t="Include" />
+          <e p="PasswordDTO.cs" t="Include" />
           <e p="PicturesDTO.cs" t="Include" />
           <e p="RecipesDTO.cs" t="Include" />
           <e p="RecipesPseudoDTO.cs" t="Include" />
@@ -64,12 +66,25 @@
           <e p="js" t="Include">
             <e p="Angular-Recettes" t="Include">
               <e p="3rdpartylicenses.txt" t="Include" />
+              <e p="accueil.0351183f7b3ebd1964e7.jpg" t="Include" />
               <e p="assets" t="Include">
                 <e p="img" t="Include">
+                  <e p="accueil.jpg" t="Include" />
+                  <e p="chili.png" t="Include" />
                   <e p="createRecipe.jpg" t="Include" />
                   <e p="createRecipeFull.jpg" t="Include" />
+                  <e p="cuisineHELHa_logo.png" t="Include" />
                   <e p="cuisinHELHa_logo.png" t="Include" />
                   <e p="logo-helha.png" t="Include" />
+                  <e p="serveur.jpg" t="Include" />
+                  <e p="sushi.jpg" t="Include" />
+                  <e p="userBG.jpg" t="Include" />
+                </e>
+                <e p="picture" t="Include">
+                  <e p="defaut.jpg" t="Include" />
+                  <e p="mousse-d-asperge.jpg" t="Include" />
+                  <e p="poulet.jpeg" t="Include" />
+                  <e p="tarteCitron.jpg" t="Include" />
                 </e>
               </e>
               <e p="createRecipeFull.554fb05c4d220778f3ed.jpg" t="Include" />
@@ -79,11 +94,16 @@
               <e p="fontawesome-webfont.b06871f281fee6b241d6.ttf" t="Include" />
               <e p="fontawesome-webfont.fee66e712a8a08eef580.woff" t="Include" />
               <e p="index.html" t="Include" />
-              <e p="main.40ceeb9670affd329315.js" t="Include" />
-              <e p="polyfills.3c79a0eafef8c32a399a.js" t="Include" />
-              <e p="runtime.edb2fcf2778e7bf1d426.js" t="Include" />
+              <e p="main-es2015.4472e86e511b6e17108a.js" t="Include" />
+              <e p="main-es5.4472e86e511b6e17108a.js" t="Include" />
+              <e p="polyfills-es2015.2987770fde9daa1d8a2e.js" t="Include" />
+              <e p="polyfills-es5.ef4b1e1fc703b3ff76e3.js" t="Include" />
+              <e p="runtime-es2015.edb2fcf2778e7bf1d426.js" t="Include" />
+              <e p="runtime-es5.edb2fcf2778e7bf1d426.js" t="Include" />
               <e p="scripts.584061c84cca79c079f4.js" t="Include" />
-              <e p="styles.b0b3ac298f5d8881fd3b.css" t="Include" />
+              <e p="styles.a857371848704f0fca0d.css" t="Include" />
+              <e p="sushi.5bb3fca09c37c9213c71.jpg" t="Include" />
+              <e p="userBG.90c8ad7b296886c5c365.jpg" t="Include" />
             </e>
           </e>
         </e>

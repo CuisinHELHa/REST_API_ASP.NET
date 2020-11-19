@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
     <data-source name="Azure SQL Database Server - cuisinhelha" uuid="46c8ede1-0c29-4a65-ac51-a10de9b1083e">
@@ -10,6 +10,22 @@
       <secret-storage>master_key</secret-storage>
       <user-name>Elsa</user-name>
       <schema-mapping />
+    </data-source>
+    <data-source name="Azure SQL Database - cuisinhelha - recipes" uuid="a667619c-6a43-4ad0-a02f-511214a3c5c1">
+      <database-info product="Microsoft SQL Server" version="12.00.2000" jdbc-version="4.2" driver-name="Microsoft JDBC Driver 7.4 for SQL Server" driver-version="7.4.1.0" dbms="AZURE" exact-version="12.0.2000" exact-driver-version="7.4">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Elsa</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
     </data-source>
   </component>
 </project>

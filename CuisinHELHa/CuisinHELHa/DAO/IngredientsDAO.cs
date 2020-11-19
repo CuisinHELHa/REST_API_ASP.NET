@@ -18,7 +18,7 @@ namespace CuisinHELHa.DAO
 
         //pour les ingredients simples
         
-        private static readonly string REQ_QUERY_INGREDIENT = $"SELECT * FROM {TABLE_INGREDIENT}";
+        private static readonly string REQ_QUERY_INGREDIENT = $"SELECT * FROM {TABLE_INGREDIENT} ORDER BY {FIELD_NAME_INGREDIENT}";
 
         private static readonly string REQ_POST_INGREDIENT
             = $"INSERT INTO {TABLE_INGREDIENT} ({FIELD_NAME_INGREDIENT}) " +

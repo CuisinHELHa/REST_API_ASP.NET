@@ -14,6 +14,12 @@ namespace CuisinHELHa.Controllers
         {
             return PicturesDAO.Query();
         }
+        
+        [HttpGet("{id}")]
+        public IEnumerable<PicturesDTO> Get(int id)
+        {
+            return PicturesDAO.QueryByRecipe(id);
+        } 
 
         [HttpPost]
         public PicturesDTO Post([FromBody] PicturesDTO picturesDto)
