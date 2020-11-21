@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+    "projectUniqueName": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa.csproj",
     "projectName": "CuisinHELHa",
-    "projectPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
-    "outputPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\obj\\",
+    "projectPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa.csproj",
+    "outputPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

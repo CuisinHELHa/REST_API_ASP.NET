@@ -1,32 +1,237 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4e6c943-ff09-4ed1-bfbd-f47b84ea4438" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CuisinHELHa/Properties/db_connection_string.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/46c8ede1-0c29-4a65-ac51-a10de9b1083e/storage_v2/_src_/database/master.YiqNvw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/46c8ede1-0c29-4a65-ac51-a10de9b1083e/storage_v2/_src_/database/master.YiqNvw/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/46c8ede1-0c29-4a65-ac51-a10de9b1083e/storage_v2/_src_/database/master.YiqNvw/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/a667619c-6a43-4ad0-a02f-511214a3c5c1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/a667619c-6a43-4ad0-a02f-511214a3c5c1/storage_v2/_src_/database/recipes.pVyEQA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/a667619c-6a43-4ad0-a02f-511214a3c5c1/storage_v2/_src_/database/recipes.pVyEQA/schema/INFORMATION_SCHEMA.NBgcMw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/a667619c-6a43-4ad0-a02f-511214a3c5c1/storage_v2/_src_/database/recipes.pVyEQA/schema/dbo.sYMBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/dataSources/a667619c-6a43-4ad0-a02f-511214a3c5c1/storage_v2/_src_/database/recipes.pVyEQA/schema/sys.zb4BAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa.dir/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/IngredientsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/PicturesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/ReviewsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/StepsController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/UsersController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/WeatherForecastController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DAO/IngredientsDAO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DAO/PicturesDAO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DAO/RecipesDAO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DAO/ReviewsDAO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DAO/StepsDAO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DAO/UsersDAO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/IngredientsDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/MailDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/PasswordDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/PicturesDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesPseudoDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsPseudoDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsRecipeDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/StepsDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/UsedIngredientsDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/UsersDTO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Helpers/AppSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Helpers/ExtensionMethods.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Helpers/SHA256Hasher.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Models/AuthenticateModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Properties/launchSettings - Copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Startup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/WeatherForecast.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.NodeServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.SpaServices.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.SpaServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Azure.Services.AppAuthentication.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Properties/launchSettings - Copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/CuisinHELHa.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/CuisinHELHa.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/CuisinHELHa.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/CuisinHELHa.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.NodeServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.Razor.Language.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.Server.Kestrel.Https.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.SpaServices.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.AspNetCore.SpaServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Azure.Services.AppAuthentication.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.CodeAnalysis.Razor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Configuration.Binder.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.IdentityModel.Clients.ActiveDirectory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Newtonsoft.Json.Bson.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Properties/launchSettings - Copy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/Properties/launchSettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/appsettings.Development.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/appsettings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/unix/lib/netstandard2.0/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win-arm64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win-x64/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win-x64/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win-x86/native/sni.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win-x86/nativeassets/netcoreapp2.2/aspnetcorev2_inprocess.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Release/netcoreapp3.0/runtimes/win/lib/netstandard2.0/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.RazorAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.RazorAssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.RazorTargetAssemblyInfo.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.csproj.CopyComplete" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Release/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/project.packagespec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/3rdpartylicenses.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/accueil.0351183f7b3ebd1964e7.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/accueil.jpg" beforeDir="false" />
@@ -77,35 +282,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Models/AuthenticateModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/UsersDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/UsedIngredientsDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/StepsDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsRecipeDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsPseudoDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/PicturesDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/IngredientsDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/UsersDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/StepsDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/ReviewsDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/RecipesDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/PicturesDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/IngredientsDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/StepsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/ReviewsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/PicturesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/IngredientsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Helpers/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -132,9 +308,7 @@
         <option value="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Properties/db_connection_string.json" />
-        <option value="$PROJECT_DIR$/../.gitignore" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" />
-        <option value="$PROJECT_DIR$/.idea/.gitignore" />
       </list>
     </option>
   </component>
@@ -147,7 +321,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CuisinHELHa/Properties/db_connection_string.json" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -292,9 +466,7 @@
       <workItem from="1578300508098" duration="573000" />
       <workItem from="1605700940957" duration="4315000" />
       <workItem from="1605801148895" duration="524000" />
-      <workItem from="1605990043203" duration="2711000" />
-      <workItem from="1605994647498" duration="202000" />
-      <workItem from="1605994854314" duration="256000" />
+      <workItem from="1605990043203" duration="2987000" />
     </task>
     <servers />
   </component>
@@ -318,10 +490,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

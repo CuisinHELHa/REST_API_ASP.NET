@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj": {}
+    "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa.csproj": {}
   },
   "projects": {
-    "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj": {
+    "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+        "projectUniqueName": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa.csproj",
         "projectName": "CuisinHELHa",
-        "projectPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+        "projectPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa.csproj",
         "packagesPath": "C:\\Users\\Bastien\\.nuget\\packages\\",
-        "outputPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\obj\\",
+        "outputPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Bastien\\AppData\\Roaming\\NuGet\\NuGet.Config"
