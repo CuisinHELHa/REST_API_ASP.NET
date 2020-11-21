@@ -9,14 +9,14 @@ namespace CuisinHELHa.DTO
         public int IdRecipe { get; set; }
         public int IdUser { get; set; }
         public string NameRecipe { get; set; }
-        public string PostDate { get; set; }
+        public DateTime PostDate { get; set; }
         public string Summary { get; set; }
         public int Persons { get; set; }
         public int PrepTime { get; set; }
         public int SpiceRate { get; set; }
         public string RecipeType { get; set; }
 
-        public RecipesDTO(int idRecipe, int idUser, string nameRecipe, string postDate, string summary, int persons, int prepTime, int spiceRate, string recipeType)
+        public RecipesDTO(int idRecipe, int idUser, string nameRecipe, DateTime postDate, string summary, int persons, int prepTime, int spiceRate, string recipeType)
         {
             this.IdRecipe = idRecipe;
             IdUser = idUser;
@@ -38,8 +38,9 @@ namespace CuisinHELHa.DTO
             IdRecipe = Convert.ToInt32(reader[RecipesDAO.FIELD_ID_RECIPE].ToString());
             IdUser = Convert.ToInt32(reader[RecipesDAO.FIELD_ID_USER].ToString()) ;
             NameRecipe = reader[RecipesDAO.FIELD_NAME_RECIPE].ToString();
-            PostDate = reader[RecipesDAO.FIELD_POSTDATE].ToString();
+            String postDate = reader[RecipesDAO.FIELD_POSTDATE].ToString();
             Summary = reader[RecipesDAO.FIELD_SUMMARY].ToString();
+            PostDate = Convert.ToDateTime(reader[RecipesDAO.FIELD_POSTDATE].ToString());
             Persons = Convert.ToInt32(reader[RecipesDAO.FIELD_PERSONS].ToString());
             PrepTime = Convert.ToInt32(reader[RecipesDAO.FIELD_PREPTIME].ToString());
             SpiceRate = Convert.ToInt32(reader[RecipesDAO.FIELD_SPICES_RATE].ToString());

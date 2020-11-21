@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\_OthersProject\CuisineHELHa\CS\CuisinHELHa" t="IncludeFlat">
+    <e p="C:\Users\Bastien\.Rider2019.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Bastien\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Bastien\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CuisinHELHa.-1974043167.00" t="ExcludeRecursive" />
+    <e p="E:\_Dev\others\REST_API_ASP.NET\CuisinHELHa" t="IncludeFlat">
       <e p="CuisinHELHa" t="IncludeRecursive">
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
@@ -48,7 +51,7 @@
           <e p="DataBase.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
-          <e p="Release" t="Include">
+          <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
               <e p="CuisinHELHa.AssemblyInfo.cs" t="Include" />
             </e>
@@ -57,61 +60,15 @@
         <e p="Pages" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
+          <e p="db_connection_string.json" t="Include" />
           <e p="launchSettings - Copy.json" t="Include" />
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="WeatherForecast.cs" t="Include" />
-        <e p="wwwroot" t="Include">
-          <e p="js" t="Include">
-            <e p="Angular-Recettes" t="Include">
-              <e p="3rdpartylicenses.txt" t="Include" />
-              <e p="accueil.0351183f7b3ebd1964e7.jpg" t="Include" />
-              <e p="assets" t="Include">
-                <e p="img" t="Include">
-                  <e p="accueil.jpg" t="Include" />
-                  <e p="chili.png" t="Include" />
-                  <e p="createRecipe.jpg" t="Include" />
-                  <e p="createRecipeFull.jpg" t="Include" />
-                  <e p="cuisineHELHa_logo.png" t="Include" />
-                  <e p="cuisinHELHa_logo.png" t="Include" />
-                  <e p="logo-helha.png" t="Include" />
-                  <e p="serveur.jpg" t="Include" />
-                  <e p="sushi.jpg" t="Include" />
-                  <e p="userBG.jpg" t="Include" />
-                </e>
-                <e p="picture" t="Include">
-                  <e p="defaut.jpg" t="Include" />
-                  <e p="mousse-d-asperge.jpg" t="Include" />
-                  <e p="poulet.jpeg" t="Include" />
-                  <e p="tarteCitron.jpg" t="Include" />
-                </e>
-              </e>
-              <e p="createRecipeFull.554fb05c4d220778f3ed.jpg" t="Include" />
-              <e p="fontawesome-webfont.674f50d287a8c48dc19b.eot" t="Include" />
-              <e p="fontawesome-webfont.912ec66d7572ff821749.svg" t="Include" />
-              <e p="fontawesome-webfont.af7ae505a9eed503f8b8.woff2" t="Include" />
-              <e p="fontawesome-webfont.b06871f281fee6b241d6.ttf" t="Include" />
-              <e p="fontawesome-webfont.fee66e712a8a08eef580.woff" t="Include" />
-              <e p="index.html" t="Include" />
-              <e p="main-es2015.4472e86e511b6e17108a.js" t="Include" />
-              <e p="main-es5.4472e86e511b6e17108a.js" t="Include" />
-              <e p="polyfills-es2015.2987770fde9daa1d8a2e.js" t="Include" />
-              <e p="polyfills-es5.ef4b1e1fc703b3ff76e3.js" t="Include" />
-              <e p="runtime-es2015.edb2fcf2778e7bf1d426.js" t="Include" />
-              <e p="runtime-es5.edb2fcf2778e7bf1d426.js" t="Include" />
-              <e p="scripts.584061c84cca79c079f4.js" t="Include" />
-              <e p="styles.a857371848704f0fca0d.css" t="Include" />
-              <e p="sushi.5bb3fca09c37c9213c71.jpg" t="Include" />
-              <e p="userBG.90c8ad7b296886c5c365.jpg" t="Include" />
-            </e>
-          </e>
-        </e>
       </e>
       <e p="CuisinHELHa.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
-    <e p="C:\Users\Bastien\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Bastien\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_CuisinHELHa.1297174450.00" t="ExcludeRecursive" />
   </component>
 </project>

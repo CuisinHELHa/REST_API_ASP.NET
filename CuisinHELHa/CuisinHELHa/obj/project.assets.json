@@ -9696,21 +9696,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bastien\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Bastien\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\_OthersProject\\CuisineHELHa\\CS\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+      "projectUniqueName": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
       "projectName": "CuisinHELHa",
-      "projectPath": "C:\\_OthersProject\\CuisineHELHa\\CS\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+      "projectPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
       "packagesPath": "C:\\Users\\Bastien\\.nuget\\packages\\",
-      "outputPath": "C:\\_OthersProject\\CuisineHELHa\\CS\\CuisinHELHa\\CuisinHELHa\\obj\\",
+      "outputPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Bastien\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],

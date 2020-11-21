@@ -1,48 +1,115 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4e6c943-ff09-4ed1-bfbd-f47b84ea4438" name="Default Changelist" comment="" />
+    <list default="true" id="d4e6c943-ff09-4ed1-bfbd-f47b84ea4438" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CuisinHELHa/.idea/.idea.CuisinHELHa/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CuisinHELHa/Properties/db_connection_string.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CuisinHELHa/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/bin/Debug/netcoreapp3.0/CuisinHELHa.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/CuisinHELHa.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/Debug/netcoreapp3.0/CuisinHELHa.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CuisinHELHa/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/accueil.0351183f7b3ebd1964e7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/accueil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/chili.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/createRecipe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/createRecipeFull.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/cuisinHELHa_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/cuisineHELHa_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/logo-helha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/serveur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/sushi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/img/userBG.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/picture/defaut.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/picture/mousse-d-asperge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/picture/poulet.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/assets/picture/tarteCitron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/createRecipeFull.554fb05c4d220778f3ed.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/fontawesome-webfont.674f50d287a8c48dc19b.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/fontawesome-webfont.912ec66d7572ff821749.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/fontawesome-webfont.af7ae505a9eed503f8b8.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/fontawesome-webfont.b06871f281fee6b241d6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/fontawesome-webfont.fee66e712a8a08eef580.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/main-es2015.4472e86e511b6e17108a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/main-es5.4472e86e511b6e17108a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/polyfills-es2015.2987770fde9daa1d8a2e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/polyfills-es5.ef4b1e1fc703b3ff76e3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/runtime-es2015.edb2fcf2778e7bf1d426.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/runtime-es5.edb2fcf2778e7bf1d426.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/scripts.584061c84cca79c079f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/styles.a857371848704f0fca0d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/sushi.5bb3fca09c37c9213c71.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CuisinHELHa/wwwroot/js/Angular-Recettes/userBG.90c8ad7b296886c5c365.jpg" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/UsedIngredientsDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/StepsDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/UsersDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Helpers/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/Models/AuthenticateModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/UsersDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/UsedIngredientsDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/StepsDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsRecipeDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsPseudoDTO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/ReviewsDTO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/IngredientsDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/PicturesController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/PicturesDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/StepsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/PicturesDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/IngredientsDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/UsersDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/StepsDAO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/ReviewsDAO.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/RecipesDAO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/PicturesDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DAO/IngredientsDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/WeatherForecast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/UsersController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/StepsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/ReviewsController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/PicturesController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CuisinHELHa/Controllers/IngredientsController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/StepsDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/PicturesDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/UsersDTO.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/CuisinHELHa/DTO/IngredientsDTO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Helpers/AppSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CuisinHELHa/DAO/UsedIngredientsDAO.cs" />
-        <option value="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/DTO/IngredientsDTO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/DTO/UsersDTO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/DTO/UsedIngredientsDTO.cs" />
@@ -55,15 +122,19 @@
         <option value="$PROJECT_DIR$/CuisinHELHa/DAO/UsersDAO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Controllers/StepsController.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/DAO/StepsDAO.cs" />
-        <option value="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" />
-        <option value="$PROJECT_DIR$/CuisinHELHa/DAO/RecipesDAO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/CuisinHELHa/DAO/IngredientsDAO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/DAO/PicturesDAO.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Controllers/PicturesController.cs" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Startup.cs" />
+        <option value="$PROJECT_DIR$/CuisinHELHa/DAO/RecipesDAO.cs" />
+        <option value="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" />
+        <option value="$PROJECT_DIR$/CuisinHELHa/Controllers/RecipesController.cs" />
+        <option value="$PROJECT_DIR$/CuisinHELHa/Properties/db_connection_string.json" />
+        <option value="$PROJECT_DIR$/../.gitignore" />
         <option value="$PROJECT_DIR$/CuisinHELHa/Models/DataBase.cs" />
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
       </list>
     </option>
   </component>
@@ -74,8 +145,9 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CuisinHELHa/Properties/db_connection_string.json" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -89,35 +161,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Azure - Publish Web App.Deploy">
+  <component name="RunManager" selected=".NET Launch Settings Profile.CuisinHELHa">
     <configuration name="Deploy" type="AzureDotNetWebAppPublish" factoryName="Azure Web App">
       <option name="AZURE_WEB_APP_PROJECT" value="$PROJECT_DIR$/CuisinHELHa/CuisinHELHa.csproj" />
-      <option name="AZURE_WEB_APP_SUBSCRIPTION_ID" value="af6a5715-8084-4823-8907-6fc497b16008" />
+      <option name="AZURE_WEB_APP_SUBSCRIPTION_ID" value="e493e5eb-3eb8-4798-89e8-f694c6f8d60d" />
       <option name="AZURE_WEB_APP_IS_CREATE_APP" value="0" />
-      <option name="AZURE_WEB_APP_ID" value="/subscriptions/af6a5715-8084-4823-8907-6fc497b16008/resourceGroups/recettes/providers/Microsoft.Web/sites/cuisinhelha" />
+      <option name="AZURE_WEB_APP_ID" value="/subscriptions/e493e5eb-3eb8-4798-89e8-f694c6f8d60d/resourceGroups/cuisinhelha-apps/providers/Microsoft.Web/sites/cuisinhelha-api" />
       <option name="AZURE_WEB_APP_NAME" value="" />
       <option name="AZURE_WEB_APP_IS_CREATE_RESOURCE_GROUP" value="0" />
       <option name="AZURE_WEB_APP_RESOURCE_GROUP_NAME" value="" />
       <option name="AZURE_WEB_APP_OPERATING_SYSTEM" value="WINDOWS" />
       <option name="AZURE_WEB_APP_IS_CREATE_APP_SERVICE_PLAN" value="0" />
-      <option name="AZURE_WEB_APP_SERVICE_PLAN_ID" value="/subscriptions/af6a5715-8084-4823-8907-6fc497b16008/resourceGroups/recettes/providers/Microsoft.Web/serverfarms/ASP-recettes-8676" />
+      <option name="AZURE_WEB_APP_SERVICE_PLAN_ID" value="/subscriptions/e493e5eb-3eb8-4798-89e8-f694c6f8d60d/resourceGroups/cuisinhelha-apps/providers/Microsoft.Web/serverfarms/ASP-cuisinhelhaapps-8890" />
       <option name="AZURE_WEB_APP_SERVICE_PLAN_NAME" value="" />
       <option name="AZURE_WEB_APP_LOCATION" value="eastus" />
       <option name="AZURE_WEB_APP_PRICING_TIER" value="" />
       <option name="AZURE_WEB_APP_NET_FRAMEWORK" value="4.7" />
       <option name="AZURE_WEB_APP_NET_CORE_RUNTIME" value="DOTNETCORE 2.1" />
-      <option name="AZURE_SQL_DATABASE_SUBSCRIPTION_ID" value="af6a5715-8084-4823-8907-6fc497b16008" />
+      <option name="AZURE_SQL_DATABASE_SUBSCRIPTION_ID" value="e493e5eb-3eb8-4798-89e8-f694c6f8d60d" />
       <option name="AZURE_SQL_DATABASE_IS_ENABLED" value="0" />
       <option name="AZURE_SQL_DATABASE_CONNECTION_STRING_NAME" value="" />
       <option name="AZURE_SQL_DATABASE_IS_CREATE" value="0" />
-      <option name="AZURE_SQL_DATABASE_ID" value="/subscriptions/af6a5715-8084-4823-8907-6fc497b16008/resourceGroups/recettes/providers/Microsoft.Sql/servers/cuisinhelha/databases/recipes" />
+      <option name="AZURE_SQL_DATABASE_ID" value="/subscriptions/e493e5eb-3eb8-4798-89e8-f694c6f8d60d/resourceGroups/cuisinhelha-apps/providers/Microsoft.Sql/servers/cuisinhelha-db-serv/databases/main" />
       <option name="AZURE_SQL_DATABASE_NAME" value="" />
       <option name="AZURE_SQL_DATABASE_IS_CREATE_RESOURCE_GROUP" value="0" />
       <option name="AZURE_SQL_DATABASE_RESOURCE_GROUP_NAME" value="" />
       <option name="AZURE_SQL_DATABASE_IS_CREATE_SQL_SERVER" value="0" />
       <option name="AZURE_SQL_DATABASE_SQL_SERVER_ID" value="" />
       <option name="AZURE_SQL_DATABASE_SQL_SERVER_NAME" value="" />
-      <option name="AZURE_SQL_DATABASE_SQL_SERVER_ADMIN_LOGIN" value="Elsa" />
+      <option name="AZURE_SQL_DATABASE_SQL_SERVER_ADMIN_LOGIN" value="bastien" />
       <option name="AZURE_SQL_DATABASE_LOCATION" value="eastus" />
       <option name="AZURE_SQL_DATABASE_COLLATION" value="SQL_Latin1_General_CP1_CI_AS" />
       <method v="2" />
@@ -220,6 +292,9 @@
       <workItem from="1578300508098" duration="573000" />
       <workItem from="1605700940957" duration="4315000" />
       <workItem from="1605801148895" duration="524000" />
+      <workItem from="1605990043203" duration="2711000" />
+      <workItem from="1605994647498" duration="202000" />
+      <workItem from="1605994854314" duration="256000" />
     </task>
     <servers />
   </component>
@@ -243,6 +318,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -251,6 +330,45 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs</url>
+          <line>42</line>
+          <properties documentPath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" initialLine="40">
+            <startOffsets>
+              <option value="1522" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1598" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs</url>
+          <line>40</line>
+          <properties documentPath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" initialLine="40">
+            <startOffsets>
+              <option value="1379" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1442" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs</url>
+          <line>41</line>
+          <properties documentPath="$PROJECT_DIR$/CuisinHELHa/DTO/RecipesDTO.cs" initialLine="41">
+            <startOffsets>
+              <option value="1455" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1509" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

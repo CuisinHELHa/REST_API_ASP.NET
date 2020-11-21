@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Net;
 using CuisinHELHa.DAO;
@@ -53,6 +54,7 @@ namespace CuisinHELHa.Controllers
         [HttpPost]
         public RecipesDTO Post([FromBody] RecipesDTO recipesDto)
         {
+            Console.WriteLine(recipesDto);
             return RecipesDAO.Post(recipesDto);
         }
         

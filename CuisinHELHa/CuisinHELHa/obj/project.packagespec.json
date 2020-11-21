@@ -1,14 +1,11 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\_OthersProject\\CuisineHELHa\\CS\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+    "projectUniqueName": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
     "projectName": "CuisinHELHa",
-    "projectPath": "C:\\_OthersProject\\CuisineHELHa\\CS\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
-    "outputPath": "C:\\_OthersProject\\CuisineHELHa\\CS\\CuisinHELHa\\CuisinHELHa\\obj\\",
+    "projectPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\CuisinHELHa.csproj",
+    "outputPath": "E:\\_Dev\\others\\REST_API_ASP.NET\\CuisinHELHa\\CuisinHELHa\\obj\\",
     "projectStyle": "PackageReference",
-    "fallbackFolders": [
-      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-    ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"
     ],
